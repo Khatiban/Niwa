@@ -1,0 +1,16 @@
+{
+"companyName": "GolomOder",
+"productName": "Niwa Game",
+"productVersion": "1.0",
+"dataUrl": "Niwa Game night.data.unityweb",
+"wasmCodeUrl": "Niwa Game night.wasm.code.unityweb",
+"wasmFrameworkUrl": "Niwa Game night.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.16f1"
+}
